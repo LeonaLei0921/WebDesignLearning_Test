@@ -1,3 +1,3 @@
 # WebDesignLearning_Test
 
-THEME: Architect
+theme: Architect
