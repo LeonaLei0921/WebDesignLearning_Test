@@ -98,6 +98,8 @@ footer{
 	bottom: 0px;
 	margin-left:0px;
 	margin-right:0px;
+	padding-top:5px;
+	padding-bottom:5px;
 	width: 100%;
 	font-family:Georgia, serif;;
 	font-size: 12px;
